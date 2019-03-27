@@ -1,0 +1,14 @@
+C:\Users\Home\source\repos\Tsis 4\Task 2\bin\Debug\Task 2.exe.config
+C:\Users\Home\source\repos\Tsis 4\Task 2\bin\Debug\Task 2.exe
+C:\Users\Home\source\repos\Tsis 4\Task 2\bin\Debug\Task 2.pdb
+C:\Users\Home\source\repos\Tsis 4\Task 2\obj\Debug\Task 2.csprojAssemblyReference.cache
+C:\Users\Home\source\repos\Tsis 4\Task 2\obj\Debug\Task 2.csproj.CoreCompileInputs.cache
+C:\Users\Home\source\repos\Tsis 4\Task 2\obj\Debug\Task 2.exe
+C:\Users\Home\source\repos\Tsis 4\Task 2\obj\Debug\Task 2.pdb
+C:\Users\Home\source\repos\Week5\Task 2\bin\Debug\Task 2.exe.config
+C:\Users\Home\source\repos\Week5\Task 2\bin\Debug\Task 2.exe
+C:\Users\Home\source\repos\Week5\Task 2\bin\Debug\Task 2.pdb
+C:\Users\Home\source\repos\Week5\Task 2\obj\Debug\Task 2.csprojAssemblyReference.cache
+C:\Users\Home\source\repos\Week5\Task 2\obj\Debug\Task 2.csproj.CoreCompileInputs.cache
+C:\Users\Home\source\repos\Week5\Task 2\obj\Debug\Task 2.exe
+C:\Users\Home\source\repos\Week5\Task 2\obj\Debug\Task 2.pdb

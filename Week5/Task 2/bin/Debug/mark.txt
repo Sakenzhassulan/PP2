@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<ArrayOfMark xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Mark>
+    <Points>95</Points>
+  </Mark>
+  <Mark>
+    <Points>77</Points>
+  </Mark>
+  <Mark>
+    <Points>45</Points>
+  </Mark>
+</ArrayOfMark>
