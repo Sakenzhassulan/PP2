@@ -1,0 +1,10 @@
+C:\Users\Home\source\repos\Week6\Snake\bin\Debug\Snake.exe.config
+C:\Users\Home\source\repos\Week6\Snake\bin\Debug\Snake.exe
+C:\Users\Home\source\repos\Week6\Snake\bin\Debug\Snake.pdb
+C:\Users\Home\source\repos\Week6\Snake\obj\Debug\Snake.csprojAssemblyReference.cache
+C:\Users\Home\source\repos\Week6\Snake\obj\Debug\Snake.csproj.CoreCompileInputs.cache
+C:\Users\Home\source\repos\Week6\Snake\obj\Debug\Snake.exe
+C:\Users\Home\source\repos\Week6\Snake\obj\Debug\Snake.pdb
+C:\Users\Home\source\repos\Week6\Snake\bin\Debug\Levels\Level1.txt
+C:\Users\Home\source\repos\Week6\Snake\bin\Debug\Levels\level2.txt
+C:\Users\Home\source\repos\Week6\Snake\bin\Debug\Levels\Level3.txt
