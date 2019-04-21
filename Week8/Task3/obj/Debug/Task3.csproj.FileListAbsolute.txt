@@ -1,0 +1,6 @@
+C:\Users\Home\source\repos\Week8\Task3\obj\Debug\Task3.csproj.CoreCompileInputs.cache
+C:\Users\Home\source\repos\Week8\Task3\bin\Debug\Task3.exe.config
+C:\Users\Home\source\repos\Week8\Task3\bin\Debug\Task3.exe
+C:\Users\Home\source\repos\Week8\Task3\bin\Debug\Task3.pdb
+C:\Users\Home\source\repos\Week8\Task3\obj\Debug\Task3.exe
+C:\Users\Home\source\repos\Week8\Task3\obj\Debug\Task3.pdb

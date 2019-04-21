@@ -1,0 +1,10 @@
+C:\Users\Home\source\repos\Week8\Task1\bin\Debug\Task1.exe.config
+C:\Users\Home\source\repos\Week8\Task1\bin\Debug\Task1.exe
+C:\Users\Home\source\repos\Week8\Task1\bin\Debug\Task1.pdb
+C:\Users\Home\source\repos\Week8\Task1\obj\Debug\Task1.csprojAssemblyReference.cache
+C:\Users\Home\source\repos\Week8\Task1\obj\Debug\Task1.Form1.resources
+C:\Users\Home\source\repos\Week8\Task1\obj\Debug\Task1.Properties.Resources.resources
+C:\Users\Home\source\repos\Week8\Task1\obj\Debug\Task1.csproj.GenerateResource.cache
+C:\Users\Home\source\repos\Week8\Task1\obj\Debug\Task1.csproj.CoreCompileInputs.cache
+C:\Users\Home\source\repos\Week8\Task1\obj\Debug\Task1.exe
+C:\Users\Home\source\repos\Week8\Task1\obj\Debug\Task1.pdb
